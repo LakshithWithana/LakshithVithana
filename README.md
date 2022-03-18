@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LakshithVithana
 - 👀 I’m interested in Flutter App Development & iOS Development
 - 🌱 I’m currently learning iOS Development
-- 💞️ I’m a freelancing mobile app developer in Fiverr
+- 💞️ I’m a freelancing Flutter app developer in Fiverr
 - 📫 How to reach me https://www.fiverr.com/share/3KQqka
 
 <!---
