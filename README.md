@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @LakshithVithana
-- 👀 I’m interested in Flutter App Development & iOS Development
-- 🌱 I’m currently learning iOS Development
-- 💞️ I’m a freelancing Flutter app developer in Fiverr
-- 🤑 I'm also a Crypto enthusiast
-- 🤝 I create NFT's 1k, 10k and 100k packages
+- 👀 Flutter App Developer & iOS Developer
+- 🌱 Python & Crypto Enthusiastic
+- 💞️ Freelancing Flutter app developer on Fiverr
 
 <!---
 LakshithVithana/LakshithVithana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
