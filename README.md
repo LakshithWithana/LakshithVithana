@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LakshithVithana
+- 👨‍⚕️ SE @ Etreon Las Vegas
 - 👀 Flutter App Developer & iOS Developer
 - 🌱 Python & Crypto Enthusiastic
 - 💞️ Freelancing Flutter app developer on Fiverr
